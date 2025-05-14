@@ -1,5 +1,5 @@
 {
-  "name": "newsnow-worker",
+  "name": "newsnow",
   "compatibility_date": "2025-05-14",
   "assets": {
     "directory": "./dist/output/public"
