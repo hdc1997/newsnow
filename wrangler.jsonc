@@ -1,0 +1,5 @@
+{
+  "name": "newsnow-worker",
+  "compatibility_date": "2025-05-14",
+  "main": "src/index.ts"
+}
